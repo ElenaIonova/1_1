@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\1_1_\1_1\praktik\bin\Debug\net7.0\praktik.exe
+C:\Users\1\Desktop\1_1_\1_1\praktik\bin\Debug\net7.0\praktik.deps.json
+C:\Users\1\Desktop\1_1_\1_1\praktik\bin\Debug\net7.0\praktik.runtimeconfig.json
+C:\Users\1\Desktop\1_1_\1_1\praktik\bin\Debug\net7.0\praktik.dll
+C:\Users\1\Desktop\1_1_\1_1\praktik\bin\Debug\net7.0\praktik.pdb
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.AssemblyInfo.cs
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.dll
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\refint\praktik.dll
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.pdb
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\praktik.genruntimeconfig.cache
+C:\Users\1\Desktop\1_1_\1_1\praktik\obj\Debug\net7.0\ref\praktik.dll
